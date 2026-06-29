@@ -1,0 +1,18 @@
+.env
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+vendor/
+tmp/
+.air.toml
+
+
+
+# OS
+.DS_Store
+Thumbs.db
